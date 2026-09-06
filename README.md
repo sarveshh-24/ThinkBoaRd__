@@ -10,8 +10,6 @@ The original deployment is available at:
 
 [https://thinkboard-s6cc.onrender.com/](https://thinkboard-00wu.onrender.com/)
 
-> This JWT-authenticated version should be deployed separately after you create the new GitHub repository.
-
 ## ✨ Features
 
 - User registration and login
