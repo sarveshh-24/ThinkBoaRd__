@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes breathe {
+  0%, 100% { color: hsl(var(--p)); }
+  50% { color: #824308; }
+}
+
+.breathing-r {
+  display: inline-block;
+  animation: breathe 3s ease-in-out infinite;
+}
